@@ -1,0 +1,22 @@
+{
+  "wheel_id": 697,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-155",
+  "project": "roof-repairs-tampa-checklist-19f5d5c5d4d44412f7be844331a85aefc5",
+  "parent_t1_ref": "roofingcontractorstampa-011",
+  "node_role": "buffer",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roof repairs tampa checklist",
+  "intended_url": "https://sites-e470-2.web.app/roof-repairs-tampa-checklist-19f5d5c5d4d44412f7be844331a85aefc5/",
+  "tier": "T2",
+  "writeback_nonce": "e0deab531d128d6a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roofingcontractorstampa-011/",
+      "anchor": "https://aumedia.neocities.org/roofingcontractorstampa-011/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
